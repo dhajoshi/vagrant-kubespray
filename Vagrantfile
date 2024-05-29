@@ -1,4 +1,4 @@
-hu# -*- mode: ruby -*-
+# -*- mode: ruby -*-
 # vi: set ft=ruby :
 
 # Check for missing plugins
