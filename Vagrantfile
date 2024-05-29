@@ -1,4 +1,4 @@
-# -*- mode: ruby -*-
+hu# -*- mode: ruby -*-
 # vi: set ft=ruby :
 
 # Check for missing plugins
@@ -43,18 +43,18 @@ nodes = [
     :ram => 4096,
     :cpus => 2
   },
-  {
-    :hostname => "node02",
-    :ip => "192.168.56.22",
-    :ram => 4096,
-    :cpus => 2
-  },
-  {
-    :hostname => "node03",
-    :ip => "192.168.56.23",
-    :ram => 4096,
-    :cpus => 2
-  },
+#  {
+ #   :hostname => "node02",
+  #  :ip => "192.168.56.22",
+   # :ram => 4096,
+   # :cpus => 2
+ # },
+ # {
+   # :hostname => "node03",
+   # :ip => "192.168.56.23",
+   # :ram => 4096,
+   # :cpus => 2
+ # },
 ]
 
 ### main ###
